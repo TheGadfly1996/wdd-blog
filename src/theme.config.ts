@@ -2,7 +2,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
 	/** blog title */
 	title: '青丝为谁绾',
 	/** your name */
-	author: 'Typography',
+	author: 'TheGadfly',
 	/** website description */
 	desc: '唤起一天明月，照我满怀冰雪，浩荡百川流。',
 	/** your deployed domain */
@@ -23,6 +23,10 @@ export const THEME_CONFIG: App.Locals['config'] = {
 		},
 		{
 			name: 'twitter',
+			href: 'https://github.com/moeyua/astro-theme-typography',
+		},
+		{
+			name: 'mastodon',
 			href: 'https://github.com/moeyua/astro-theme-typography',
 		},
 	],
